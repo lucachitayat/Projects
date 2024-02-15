@@ -1,5 +1,5 @@
 # Projects
-Selected and approved code snippets from recent projects.
+SOON TO BE ADDED: Selected and approved code snippets from recent projects.
 
 # Resolvely.Ai
 Resolvely.Ai is a Los Angeles based education startup focused on simplifying the college roadmap for prospective highschool students by providing them individualized recommendations, advice, and gamified guidance to lead them through each step of the process. Currently there is an estimated 400+ students for each college counselor, and Resolvely aims to bridge the challenege of providing individualized help to all students - particularly those without the means for expensive options. 
